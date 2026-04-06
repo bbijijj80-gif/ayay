@@ -1,0 +1,12 @@
+[mod]
+modId = "cameramod"
+name = "Camera Mod"
+description = "Мод добавляет работающие камеры и блок управления для просмотра изображения с камер в Minecraft 1.12.2"
+version = "${version}"
+mcversion = "${mcversion}"
+url = ""
+authorList = ["Developer"]
+credits = ""
+logoFile = ""
+screenshots = []
+dependencies = []
