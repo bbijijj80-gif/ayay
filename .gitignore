@@ -1,0 +1,41 @@
+```
+# Gradle
+.gradle/
+build/
+target/
+
+# Dependencies
+lib/
+libs/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Compiled Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Minecraft/MOD specific
+.run/
+*.iml
+```
